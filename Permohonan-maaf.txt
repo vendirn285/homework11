@@ -1,0 +1,2 @@
+Mohon maaf kak Vincent karena untuk tugas week 11 ini saya masih ada kekurangan untuk implementasi docker dan CI/CD,
+saya akan update repository-nya jika Docker dan CI/CD sudah berhasil saya tambahkan. Saya masih gagal untuk implementasinya
